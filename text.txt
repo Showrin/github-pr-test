@@ -9,3 +9,5 @@ I am a text in branch br-3.
 I am a text in branch br-4.
 
 I am a text in branch br-5.
+
+I am a text in branch br-6.
