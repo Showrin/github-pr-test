@@ -1,3 +1,5 @@
 I am a text in the main branch.
 
 I am a text in branch br-1.
+
+I am a text in branch br-2.
